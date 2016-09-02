@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "prebuild": "echo 'prebuild'",
+    "build": "echo 'build'"
+  },
+  "dependencies": {
+    "slide": "^1.1.6"
+  }
+}
